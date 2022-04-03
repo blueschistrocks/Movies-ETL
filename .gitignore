@@ -1,3 +1,17 @@
+# Adding config.py file.
+config.py
+credits.csv
+keywords.csv
+links_small.csv
+links.csv
+rating_small.csv
+rating_small.csv
+ratings.csv
+
+archive/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
