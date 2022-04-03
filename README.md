@@ -1,7 +1,7 @@
 # Movies-ETL
 ## Extract, Transform, Load
 
-### Purpose
+### Project Purpose
 - To create an ETL pipeline from raw kaggle and Wiki Movie data to a SQL database.
 - To extract data from various file types such CSV and Jason using Python.
 - Clean erronous data and transform data using Pandas
